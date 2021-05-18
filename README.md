@@ -5,15 +5,6 @@ A Front-End developer from Goiânia, Brazil.
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning **Typescript, Rust**
 
-### 📦 My top projects
-
-| Name | A short summary |
-| ---- | --------------- |
-| [Trellu](https://github.com/valmisson/Trellu) | Project manager build with SvelteJS |
-| [FlexGrid](https://github.com/valmisson/flexgrid) | A simple and flexible grid system created with flexbox using scss. 💪 |
-
-[See more...](https://github.com/valmisson?tab=repositories)
-
 ### 🚀 Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,6 +25,5 @@ A Front-End developer from Goiânia, Brazil.
 
 ### 📫 Where to find me
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valmisson)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmisson/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/valmisson)
