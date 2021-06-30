@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Valmisson</h1>
+# Hi there 👋 I'm Valmisson
 
 A Front-End developer from Goiânia, Brazil.
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning **Typescript, Rust**
 
-### 🚀 Languages and Tools:
+### 🚀 Expertise
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,7 +23,7 @@ A Front-End developer from Goiânia, Brazil.
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=valmisson&show_icons=true&locale=en&layout=compact)
 
-### 📫 Where to find me
+### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmisson/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/valmisson)
