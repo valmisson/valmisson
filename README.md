@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Valmisson
 
-A Front-End Developer from Goiânia, Brazil.
+A Front-End Developer.
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning **Rust**
